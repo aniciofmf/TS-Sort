@@ -1,6 +1,6 @@
 export abstract class Sort {
-	abstract compare(leftIndex: number, rightIndex: number): boolean;
-	abstract swap(leftIndex: number, rightIndex: number): void;
+	abstract compare(Lindex: number, Rindex: number): boolean;
+	abstract swap(Lindex: number, Rindex: number): void;
 	abstract length: number;
 
 	sort(): void {
