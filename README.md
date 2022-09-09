@@ -1,1 +1,1 @@
-### TS-Sort - Naive Implementation of bubble sort taking advantage of abstract classes
+#### TS-Sort - Naive Implementation of the infamous bubble sort search taking advantage of abstract classes
